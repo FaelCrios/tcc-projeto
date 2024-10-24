@@ -7,3 +7,6 @@
 [submodule "gama-service"]
 	path = gama-service
 	url = https://github.com/FaelCrios/gama-service
+[submodule "zipkin-distrace"]
+	path = zipkin-distrace
+	url = https://github.com/FaelCrios/zipkin-distrace
