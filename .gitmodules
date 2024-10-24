@@ -1,0 +1,9 @@
+[submodule "alpha-service"]
+	path = alpha-service
+	url = https://github.com/FaelCrios/alpha-service
+[submodule "beta-service"]
+	path = beta-service
+	url = https://github.com/FaelCrios/beta-service
+[submodule "gama-service"]
+	path = gama-service
+	url = https://github.com/FaelCrios/gama-service
