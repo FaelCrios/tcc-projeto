@@ -10,3 +10,6 @@
 [submodule "zipkin-distrace"]
 	path = zipkin-distrace
 	url = https://github.com/FaelCrios/zipkin-distrace
+[submodule "omega-service"]
+	path = omega-service
+	url = https://github.com/FaelCrios/omega-service
